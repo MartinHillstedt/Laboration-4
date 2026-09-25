@@ -1,4 +1,4 @@
-//Lösning på uppgift 1
+//Lösning till uppgift 1. Av Martin Nilsson, 2026
 
 "use strict;"
 

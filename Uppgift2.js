@@ -1,4 +1,4 @@
-//Lösning uppgift 2
+//Lösning till uppgift 2. Av Martin Nilsson, 2026
 "use strict;"
 
 const pris = 9657;
