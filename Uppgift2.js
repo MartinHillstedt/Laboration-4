@@ -1,6 +1,12 @@
+//Lösning uppgift 2
 "use strict;"
 
-let pris = 100;
-let antal = 2;
-let total = pris * antal; //Beräkna totalpris utan moms
-let moms = total * 0.25; //Lägg på 25% moms
+const pris = 9657;
+const antal = 17;
+const total = pris * antal; //Beräkna totalpris utan moms
+const moms = total * 0.25; //Lägg på 25% moms
+
+console.log(`Pris: ${pris} kr`);
+console.log(`Antal: ${antal}`);
+console.log(`Total: ${total} kr`);
+console.log(`Totalt inklusive moms: ${total + moms} kr`);
