@@ -1,3 +1,5 @@
+//Lösning till uppgift 5. Av Martin Nilsson, 2026
+
 "use strict";
 
 const dishes = ["Pasta", "Pizza", "Sushi", "Tacos", "Hamburgare"]; //Skapar en array med maträtter.
