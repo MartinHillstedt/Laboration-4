@@ -2,7 +2,7 @@
 
 "use strict";
 
-const numbers = [10,15,8,20,6,10]; //Skapar en array med tal.
+const numbers = [10,15,8,20,6,10]; //En array med tal.
 
 function sumOfArray(arr) { //Funktion som tar emot en array som parameter och returnerar summan av alla element i arrayen.
     
@@ -13,3 +13,6 @@ function sumOfArray(arr) { //Funktion som tar emot en array som parameter och re
     }
     return sum; //Returnerar summan av alla element i arrayen.
 }
+const totalSum = sumOfArray(numbers); //Anropar funktionen med arrayen numbers som parameter och sparar resultatet i variabeln totalSum.
+
+console.log(`Summan är: ${totalSum}`); //Skriver ut summan av alla tal i arrayen.
